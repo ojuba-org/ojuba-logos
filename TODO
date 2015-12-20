@@ -1,0 +1,7 @@
+- fix boot loader images
+- changing fedora images:
+    * fedora folder
+    * rnotes
+    * rhgb
+- fix spec file 
+    * dont forget to make icons via spec file while building

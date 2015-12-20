@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="208"
+   id="svg3469"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="progress-first-ojuba.svg"
+   version="1.1"
+   width="280">
+  <defs
+     id="defs3471">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5947">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5949" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5951" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4288"
+       inkscape:collect="always"
+       x1="321.32547"
+       x2="321.32547"
+       xlink:href="#linearGradient4211"
+       y1="242.01347"
+       y2="288.3175" />
+    <linearGradient
+       id="linearGradient4211"
+       inkscape:collect="always">
+      <stop
+         id="stop4213"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4215"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4290"
+       inkscape:collect="always"
+       x1="413.5"
+       x2="413.5"
+       xlink:href="#linearGradient4181"
+       y1="247"
+       y2="297.03998" />
+    <linearGradient
+       id="linearGradient4181">
+      <stop
+         id="stop4183"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4185"
+         offset="1"
+         style="stop-color:#eeeeec;stop-opacity:0;" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4201"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur4203"
+         inkscape:collect="always"
+         stdDeviation="1.3873274" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3440"
+       inkscape:collect="always"
+       x1="413.5"
+       x2="413.5"
+       xlink:href="#linearGradient4181"
+       y1="247"
+       y2="297.03998" />
+    <linearGradient
+       id="linearGradient3442">
+      <stop
+         id="stop3444"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop3446"
+         offset="1"
+         style="stop-color:#eeeeec;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3576"
+       inkscape:collect="always"
+       x1="321.32547"
+       x2="321.32547"
+       xlink:href="#linearGradient4211"
+       y1="242.01347"
+       y2="288.3175" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3578"
+       inkscape:collect="always"
+       x1="413.5"
+       x2="413.5"
+       xlink:href="#linearGradient4181"
+       y1="247"
+       y2="297.03998" />
+    <linearGradient
+       gradientTransform="translate(23.350584,192.38969)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3582"
+       inkscape:collect="always"
+       x1="413.5"
+       x2="413.5"
+       xlink:href="#linearGradient4181"
+       y1="247"
+       y2="297.03998" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5947"
+       id="linearGradient5953"
+       x1="52.267845"
+       y1="136.64221"
+       x2="271.78412"
+       y2="136.64221"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6071"
+       x="-0.061621736"
+       width="1.1232435"
+       y="-0.043462372"
+       height="1.0869247">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.5660775"
+         id="feGaussianBlur6073" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5947"
+       id="linearGradient6075"
+       gradientUnits="userSpaceOnUse"
+       x1="52.267845"
+       y1="136.64221"
+       x2="271.78412"
+       y2="136.64221" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5947"
+       id="linearGradient6077"
+       gradientUnits="userSpaceOnUse"
+       x1="52.267845"
+       y1="136.64221"
+       x2="271.78412"
+       y2="136.64221" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5947"
+       id="linearGradient6079"
+       gradientUnits="userSpaceOnUse"
+       x1="52.267845"
+       y1="136.64221"
+       x2="271.78412"
+       y2="136.64221" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6089"
+       x="-0.11786655"
+       width="1.2357331"
+       y="-0.083132353"
+       height="1.1662647">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.646477"
+         id="feGaussianBlur6091" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     fit-margin-bottom="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-top="0"
+     id="base"
+     inkscape:current-layer="layer1"
+     inkscape:cx="158.5"
+     inkscape:cy="7.633748"
+     inkscape:document-units="px"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="711"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1366"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:zoom="1"
+     pagecolor="#ffffff"
+     showgrid="false" />
+  <metadata
+     id="metadata3474">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-238.57617,-426.71022)">
+    <text
+       id="fekrjfk3j4hk"
+       style="font-style:normal;font-weight:normal;font-size:76.07085419px;font-family:'Bitstream Vera Sans';fill:#e6e6e6;fill-opacity:1;stroke:none;"
+       x="389.14609"
+       xml:space="preserve"
+       y="490.38968"><tspan
+         id="version4"
+         sodipodi:role="line"
+         style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#e6e6e6;fill-opacity:1;"
+         x="389.14609"
+         y="490.38968">version4</tspan></text>
+    <text
+       id="2uh3rk3h4ktjhk3hjt434t"
+       style="font-style:normal;font-weight:normal;font-size:76.07085419px;font-family:'Bitstream Vera Sans';fill:#00ff00;fill-opacity:1;stroke:none;"
+       x="389.14609"
+       xml:space="preserve"
+       y="489.38968"><tspan
+         id="version3"
+         sodipodi:role="line"
+         style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#008080;fill-opacity:1"
+         x="389.14609"
+         y="489.38968">version3</tspan></text>
+    <text
+       id="dasgjhkhj4"
+       style="font-style:normal;font-weight:normal;font-size:76.07085419px;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none;"
+       x="195.14609"
+       xml:space="preserve"
+       y="489.38968"><tspan
+         id="version2"
+         sodipodi:role="line"
+         style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#008000;fill-opacity:1;"
+         x="195.14609"
+         y="489.38968">version2</tspan></text>
+    <text
+       id="sdfkjhkj3hk2hrk4j4"
+       style="font-style:normal;font-weight:normal;font-size:76.07085419px;font-family:'Bitstream Vera Sans';opacity:0.375;fill:url(#linearGradient3582);fill-opacity:1;stroke:none;filter:url(#filter4201)"
+       x="389.14609"
+       xml:space="preserve"
+       y="489.38968"><tspan
+         id="version1"
+         sodipodi:role="line"
+         style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:url(#linearGradient3582);fill-opacity:1"
+         x="389.14609"
+         y="489.38968">version1</tspan></text>
+    <text
+       id="copyrighttextelement"
+       inkscape:export-filename="/home/duffy/Desktop/splash.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="font-size:15.20080757px;font-style:normal;font-weight:normal;fill:#b3b3b3;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="242.02686"
+       xml:space="preserve"
+       y="630.5481"><tspan
+         id="copyright"
+         sodipodi:role="line"
+         style="font-size:9px;fill:#b3b3b3;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         x="242.02686"
+         y="630.5481">Copyright © 2003-2012 Red Hat, Inc. and others. All rights reserved.</tspan></text>
+    <g
+       transform="matrix(0.23537649,0,0,0.2065428,318.8733,441.18181)"
+       id="g3469"
+       style="opacity:0.93300003;fill:#008000;filter:url(#filter6089)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-opacity:0.8711111;fill-rule:evenodd;stroke:none"
+         d="M 226.71875,12.96875 C 173.31208,13.799937 119.66516,12.242105 66.40625,13.78125 55.525676,16.969628 50.575021,29.79816 52.783351,40.249998 53.171072,119.36466 51.936182,198.563 53.46875,277.625 c 3.129853,10.73296 15.860302,15.81012 26.312479,13.52484 51.769751,-0.58203 103.639211,1.2592 155.343771,-0.99359 10.73977,-3.75092 14.58434,-16.54644 12.55411,-26.99998 C 247.26562,184.25893 248.65818,105.28716 246.875,26.4375 244.41288,18.018111 235.28086,12.377017 226.71875,12.96875 Z"
+         id="path3471" />
+      <rect
+         style="fill:#008000;fill-opacity:0.32369941;stroke:#362f34;stroke-width:5.46517992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         id="rect3473"
+         width="205.49309"
+         height="288.71747"
+         x="63.55843"
+         y="-15.671397"
+         ry="27.215874"
+         inkscape:export-filename="/home/kefah/ojubatlinux.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/kefah/ojubatlinux.png"
+         ry="27.215874"
+         y="-15.671397"
+         x="63.55843"
+         height="288.71747"
+         width="205.49309"
+         id="rect3475"
+         style="fill:#008000;fill-opacity:0.32369941;stroke:#362f34;stroke-width:5.46517992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+    </g>
+    <g
+       id="layer1-3-7"
+       inkscape:label="Layer 1"
+       transform="matrix(0.24921994,0,0,0.20265846,320.13205,437.8725)">
+      <g
+         id="g2386-4">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:0.8711111;fill-rule:evenodd;stroke:none"
+           d="M 226.71875,12.96875 C 173.31208,13.799937 119.66516,12.242105 66.40625,13.78125 55.525676,16.969628 50.575021,29.79816 52.783351,40.249998 53.171072,119.36466 51.936182,198.563 53.46875,277.625 c 3.129853,10.73296 15.860302,15.81012 26.312479,13.52484 51.769751,-0.58203 103.639211,1.2592 155.343771,-0.99359 10.73977,-3.75092 14.58434,-16.54644 12.55411,-26.99998 C 247.26562,184.25893 248.65818,105.28716 246.875,26.4375 244.41288,18.018111 235.28086,12.377017 226.71875,12.96875 Z"
+           id="rect3215-6" />
+        <rect
+           style="fill:#74dc00;fill-opacity:0.32369941;stroke:#362f34;stroke-width:5.46517992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="rect1574-8"
+           width="205.49309"
+           height="288.71747"
+           x="47.498756"
+           y="7.8072519"
+           ry="27.215874"
+           inkscape:export-filename="/home/kefah/ojubatlinux.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#87ff76;stroke-width:1.30269027;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1616-1"
+           sodipodi:cx="400.38974"
+           sodipodi:cy="421.89471"
+           sodipodi:rx="11.299676"
+           sodipodi:ry="11.299676"
+           d="m 411.29576,424.85129 a 11.299676,11.299676 0 0 1 -13.69979,7.99229 11.299676,11.299676 0 0 1 -8.1955,-13.5792 11.299676,11.299676 0 0 1 13.45559,-8.3969 11.299676,11.299676 0 0 1 8.59644,13.32899"
+           sodipodi:start="0.26473292"
+           sodipodi:end="0.20513659"
+           sodipodi:open="true"
+           transform="matrix(3.8250516,0,0,3.899496,-1384.6692,-1562.6671)"
+           inkscape:export-filename="/home/kefah/ojubatlinux.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#a3e5a2;stroke-width:1.08624649;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1618-4"
+           sodipodi:cx="357.77771"
+           sodipodi:cy="430.88"
+           sodipodi:rx="16.609163"
+           sodipodi:ry="14.02249"
+           d="m 373.80825,434.54901 a 16.609163,14.02249 0 0 1 -20.13704,9.91814 16.609163,14.02249 0 0 1 -12.0464,-16.85129 16.609163,14.02249 0 0 1 19.77809,-10.42026 16.609163,14.02249 0 0 1 12.63573,16.5408"
+           sodipodi:start="0.26473292"
+           sodipodi:end="0.20513659"
+           sodipodi:open="true"
+           transform="matrix(4.2136809,0,0,5.0910775,-1360.0206,-1996.2105)"
+           inkscape:export-filename="/home/kefah/ojubatlinux.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="spiral"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path1620-5"
+           sodipodi:cx="492.03616"
+           sodipodi:cy="384.40247"
+           sodipodi:expansion="1"
+           sodipodi:revolution="1.9577229"
+           sodipodi:radius="31.723936"
+           sodipodi:argument="-7.5777087"
+           sodipodi:t0="0"
+           d="m 492.03616,384.40247 c 0.66486,-2.34498 3.489,-0.26072 3.89751,1.10503 1.10703,3.7011 -2.81536,6.58493 -6.10757,6.68997 -5.88901,0.1879 -9.84977,-5.64964 -9.48245,-11.1101 0.53906,-8.01345 8.51088,-13.17952 16.11265,-12.27492 10.13196,1.20569 16.535,11.38016 15.06738,21.11518 -1.84686,12.25054 -14.25291,19.90343 -26.11772,17.85986 -14.36987,-2.47505 -23.27927,-17.12754 -20.65232,-31.12026 2.49498,-13.28976 14.28452,-23.04547 27.62,-23.98691"
+           transform="matrix(2.8879402,0,0,2.5839329,-1263.3521,-784.9746)"
+           inkscape:export-filename="/home/kefah/ojubatlinux.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="spiral"
+           style="fill:none;stroke:#000000;stroke-width:1.00017166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1622-2"
+           sodipodi:cx="522.034"
+           sodipodi:cy="378.78534"
+           sodipodi:expansion="1"
+           sodipodi:revolution="1.977598"
+           sodipodi:radius="7.3653135"
+           sodipodi:argument="-10.746331"
+           sodipodi:t0="0"
+           d="m 522.034,378.78534 c -0.13819,0.54289 -0.79999,0.0816 -0.90233,-0.22967 -0.27733,-0.84346 0.60593,-1.53039 1.36167,-1.57497 1.35184,-0.0798 2.2981,1.23683 2.24762,2.49366 -0.0741,1.84445 -1.87352,3.08088 -3.62566,2.92027 -2.33532,-0.21408 -3.86963,-2.5119 -3.59291,-4.75766 0.34822,-2.82605 3.15099,-4.66138 5.88965,-4.26556 3.31687,0.47938 5.45484,3.79048 4.93821,7.02164 -0.54503,3.4088 -3.71511,5.8101 -7.11373,5.7143"
+           transform="matrix(-6.8832638,0,0,6.8726235,3745.8306,-2527.7829)"
+           inkscape:export-filename="/home/kefah/ojubatlinux.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:5.03118324px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 148.44786,126.61313 51.21431,-9.10694"
+           id="path1624-3"
+           inkscape:export-filename="/home/kefah/ojubatlinux.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.23546452,0,0,0.1935831,318.4248,443.2586)"
+       id="g3469-7"
+       style="opacity:0.23049646;fill:url(#linearGradient5953);fill-opacity:1;filter:url(#filter6071)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient6075);fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="M 226.71875,12.96875 C 173.31208,13.799937 119.66516,12.242105 66.40625,13.78125 55.525676,16.969628 50.575021,29.79816 52.783351,40.249998 53.171072,119.36466 51.936182,198.563 53.46875,277.625 c 3.129853,10.73296 15.860302,15.81012 26.312479,13.52484 51.769751,-0.58203 103.639211,1.2592 155.343771,-0.99359 10.73977,-3.75092 14.58434,-16.54644 12.55411,-26.99998 C 247.26562,184.25893 248.65818,105.28716 246.875,26.4375 244.41288,18.018111 235.28086,12.377017 226.71875,12.96875 Z"
+         id="path3471-1" />
+      <rect
+         style="fill:url(#linearGradient6077);fill-opacity:1;stroke:#362f34;stroke-width:5.46517992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         id="rect3473-5"
+         width="205.49309"
+         height="288.71747"
+         x="63.55843"
+         y="-15.671397"
+         ry="27.215874"
+         inkscape:export-filename="/home/kefah/ojubatlinux.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/kefah/ojubatlinux.png"
+         ry="27.215874"
+         y="-15.671397"
+         x="63.55843"
+         height="288.71747"
+         width="205.49309"
+         id="rect3475-5"
+         style="fill:url(#linearGradient6079);fill-opacity:1;stroke:#362f34;stroke-width:5.46517992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
